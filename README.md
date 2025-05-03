@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/catherinedparnell-mcp-finnhub-badge.png)](https://mseep.ai/app/catherinedparnell-mcp-finnhub)
+
 # Finnhub MCP Server
 
 An MCP server to interface with Finnhub API.
